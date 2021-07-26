@@ -4,7 +4,7 @@ A dungeon dodge game for MakeCode Arcade
 
 ![example1](https://github.com/zzfuns/rush100seconds/blob/master/Examples/example1.PNG)
 ![example2](https://github.com/zzfuns/rush100seconds/blob/master/Examples/example2.PNG)
-![example3](https://github.com/zzfuns/rush100seconds/blob/master/Examples/example3.PNG)
+![example3](https://github.com/zzfuns/rush100seconds/blob/master/Examples/example3.jpg)
 
 > 在 [https://zzfuns.github.io/rush100seconds/](https://zzfuns.github.io/rush100seconds/) 打开此页面
 
