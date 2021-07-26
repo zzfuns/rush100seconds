@@ -1,5 +1,8 @@
  
+#Rush 100 seconds
+A dungeon dodge game for MakeCode Arcade
 
+![example](https://github.com/zzfuns/random_rooms_creator/blob/main/Examples/example210722.PNG)
 
 > 在 [https://zzfuns.github.io/rush100seconds/](https://zzfuns.github.io/rush100seconds/) 打开此页面
 
